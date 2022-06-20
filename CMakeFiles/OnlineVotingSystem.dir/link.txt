@@ -1,0 +1,2 @@
+/usr/bin/ar qc libOnlineVotingSystem.a  CMakeFiles/OnlineVotingSystem.dir/sqlite3.c.o
+/usr/bin/ranlib libOnlineVotingSystem.a
